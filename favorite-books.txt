@@ -1,1 +1,5 @@
-Dictionary
+tv guide [informational]
+phone book [informational]
+hunger games [fiction]
+harry potter [fiction]
+dictionary [informational]

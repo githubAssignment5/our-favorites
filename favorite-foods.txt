@@ -1,3 +1,5 @@
-ice cream
-pizza
-cake
+pizza [junk food]
+noodles [side dish]
+ice cream [junk food]
+beans [protein rich]
+cake [desert]
